@@ -152,8 +152,9 @@ OIBSIP/
 <img width="1920" height="752" alt="1000095991" src="https://github.com/user-attachments/assets/4b62f598-55eb-4e5f-b880-5c34e56445a8" />
 <img width="1920" height="752" alt="1000095992" src="https://github.com/user-attachments/assets/860f08f6-e061-40f5-b22c-1ab61eb24429" />
 
-
----
+## 🎥 Demo Video
+Watch the demo video of the Random Password Generator here:
+https://lnkd.in/p/dJJneEwK
 
 ## 🔒 Security Note
 
