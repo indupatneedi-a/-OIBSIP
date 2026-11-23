@@ -119,6 +119,10 @@ In a **Jupyter Notebook**, install the libraries with `!pip install pyttsx3 Spee
 - This program does **not** save any audio or text to files.
 
 ---
+## Screenshots
+<img width="1920" height="816" alt="1000095994" src="https://github.com/user-attachments/assets/6d348616-2972-4940-8f74-c18551b7cd36" />
+
+<img width="1920" height="816" alt="1000095993" src="https://github.com/user-attachments/assets/d9852083-13d5-49ef-b1ec-2591567b394a" />
 
 ## 🎥 Demo Video
 🔗https://lnkd.in/p/d_wgvrSm
