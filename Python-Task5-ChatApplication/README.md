@@ -43,7 +43,7 @@ Build a messaging application in Python where two users can chat in real time. T
 
 ---
 
-##LINK: https://lnkd.in/p/d-K65_mC
+##DEMO LINK: https://lnkd.in/p/d-K65_mC
 
 ## 📁 Project Structure
 
