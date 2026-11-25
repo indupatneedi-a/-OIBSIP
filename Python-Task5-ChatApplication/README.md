@@ -43,6 +43,8 @@ Build a messaging application in Python where two users can chat in real time. T
 
 ---
 
+##LINK: https://lnkd.in/p/d-K65_mC
+
 ## 📁 Project Structure
 
 ```
@@ -121,3 +123,5 @@ You left the chat.
 ##screenshots
 <img width="1840" height="790" alt="02_imports_and_settings" src="https://github.com/user-attachments/assets/e65e1c6c-d8f6-43a0-8d73-b08604ddcc6a" />
 <img width="1840" height="790" alt="05_start_server_output_proof" src="https://github.com/user-attachments/assets/ba003dc2-2aca-4649-88d3-e11971c9c4c9" />
+
+
